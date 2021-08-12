@@ -1,6 +1,6 @@
 # Hi there, I'm Christian M. Tania 👋🏻
 
-I'm a Full Stack Developer with 3 years of experience based here in the Philippines.\
+## I'm a Full Stack Developer with 3 years of experience based here in the Philippines.
 Currently have a full time job working on <strong> C#, Angular, NodeJs, AWS Lambda, Entity Framework, MSSQL</strong>  at Accenture Philippines, Inc.
 
 ## Previous/Current Projects <br/>
