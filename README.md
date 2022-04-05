@@ -6,6 +6,9 @@ Currently have a full time job working on <strong> C#, Angular, NodeJs, AWS Lamb
 ## Previous/In progress WebApp <br/>
 > ⭐️ [Jobs Board Web App](https://github.com/cmtania/jobs-board) - Create job posted web app using Angular 12 and NodeJs as backend using local JSON File.
 
+## Python Activity <br/>
+> ⭐️ [Simple Ordering System through terminal](https://github.com/cmtania/python-ordering-system) - Created a ordering system using json file as data source.
+
 
 ## My Values
 🧠 Problem-solving capability<br/>
