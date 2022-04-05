@@ -17,4 +17,5 @@ Currently have a full time job working on <strong> C#, Angular, NodeJs, AWS Lamb
 
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/taniachristian/) <br/>
+- [My Resume](https://cmtania.github.io/resume/)<br />
 
