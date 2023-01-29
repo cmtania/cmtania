@@ -12,7 +12,8 @@ I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, 
 > ⭐️ [SplinterLands-Bot](https://github.com/cmtania/splinterlands-bot/commit/4aa3005e222f1365f6c82caf183494b01ac8da82) - Added changes to their working bot. 
 ## Practice/Exercise Simple Application <br/>
 > ⭐️ [Portfolio Web App- Code Syntax](https://github.com/cmtania/portfolio-vscodetheme) - Created a web app portfolio based on coding syntax. <br/>
-> ⭐️ [NodeJs - CreateDatabase](https://github.com/cmtania/NodeJs-CreateDatabase) - Created a NodeJS App that you will create a database and table through the terminal.
+> ⭐️ [NodeJs - CreateDatabase](https://github.com/cmtania/NodeJs-CreateDatabase) - Created a NodeJS App that you will create a database and table through the terminal.<br/>
+> ⭐️ [Python - GuessCupBall](https://github.com/cmtania/BallGuessCup) - Coding exercise using Python with the logic of guessing the ball in three(3) cups.<br/>
 
 ## My Values
 🧠 Problem-solving capability<br/>
