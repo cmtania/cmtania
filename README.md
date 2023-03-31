@@ -11,7 +11,7 @@ I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, 
 > ⭐️ [Jobs Board Web App](https://github.com/cmtania/jobs-board) - Created job posted web app using Angular 12 and NodeJs as backend using local JSON File. <br/>
 ## Freelance Work <br/>
 > ⭐️ [SplinterLands-Bot](https://github.com/cmtania/splinterlands-bot/commit/4aa3005e222f1365f6c82caf183494b01ac8da82) - Added changes to their working bot.<br/>
-> ⭐️ [Education Landing page](https://securranty-development.azurewebsites.net/Education.aspx) - Create landing page with Bootstrap, HTML and CSS.
+> ⭐️ [Education Landing page](https://securranty-development.azurewebsites.net/Education.aspx) - Create landing page with Bootstrap, HTML and CSS.<br/>
 > ⭐️ [Insurance Plan Landing page](https://securranty-development.azurewebsites.net//Student-Device-Insurance-Repairs.aspx) - Create landing page with Bootstrap, HTML and CSS.
 ## Practice/ToDo Application <br/>
 > ⭐️ [Portfolio Web App - Angular]( https://cmtania.github.io/portfolio-vscodetheme/) - Created a web app portfolio based on coding syntax. <br/>
