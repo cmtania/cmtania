@@ -1,6 +1,6 @@
 # Hi there, I'm Christian M. Tania 👋🏻
 
-## I'm a Full Stack Developer with 4 years of experience in developing and maintaining web applications and experience as a freelance. 
+## I'm a Full Stack Developer with 5 years of experience in developing and maintaining web applications and experience as a freelance. 
 I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, and TFS</strong>.
 
 ## My Certificate
