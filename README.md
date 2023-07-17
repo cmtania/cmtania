@@ -31,7 +31,7 @@ I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, 
 🎮 Playing Valorant</br>
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/taniachristian/) <br/>
-- [My Resume](https://cmtania.github.io/resume/)<br />
+- [My Resume](https://cmtania.github.io/tania-dev/resume)<br />
 - [My Upwork Profile](https://www.upwork.com/freelancers/~018cd08117830ec4bb?viewMode=1&s=1110580755107926016)<br />
 - [My OnlineJobsPh Profile](https://www.onlinejobs.ph/jobseekers/info/1609715)<br />
 
