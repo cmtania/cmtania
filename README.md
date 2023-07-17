@@ -1,7 +1,9 @@
 # Hi there, I'm Christian M. Tania 👋🏻
-
+## I'm looking for freelance work, contact me for your future project. 
 ## I'm a Full Stack Developer with 5 years of experience in developing and maintaining web applications and experience as a freelance. 
 I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, and TFS</strong>.
+
+
 
 ## My Certificate
 📜 [Programming for Beginners Using Python](https://courses.buri.io/view/user/certificate/10be5a5d-8d80-459d-a353-190e255f54ce/pdf) <br/>
