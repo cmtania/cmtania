@@ -16,6 +16,7 @@ I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, 
 > ⭐️ [Education Landing page](https://securranty-development.azurewebsites.net/Education.aspx) - Create landing page with Bootstrap, HTML and CSS.<br/>
 > ⭐️ [Insurance Plan Landing page](https://securranty-development.azurewebsites.net//Student-Device-Insurance-Repairs.aspx) - Create landing page with Bootstrap, HTML and CSS.
 ## Practice/ToDo Application <br/>
+> ⭐️ [Resume Builder - Angular]( https://cmtania.github.io/resume-builder) - Created a web app to generate a resume and download as PDF. <br/>
 > ⭐️ [Main Portfolio Web App - Angular]( https://cmtania.github.io/tania-dev/main/) - Created a web app portfolio with my idea. <br/>
 > ⭐️ [Portfolio Web App - Angular]( https://cmtania.github.io/portfolio-vscodetheme/) - Created a web app portfolio based on coding syntax. <br/>
 > ⭐️ [NodeJs - CreateDatabase](https://github.com/cmtania/NodeJs-CreateDatabase) - Created a NodeJS App that you will create a database and table through the terminal.<br/>
