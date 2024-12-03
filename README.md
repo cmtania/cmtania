@@ -1,6 +1,6 @@
 # Hi there, I'm Christian M. Tania 👋🏻
 ## I'm looking for freelance work, contact me for your future project. 
-## I'm a Full Stack Developer with 5 years of experience in developing and maintaining web applications and experience as a freelance. 
+## I'm a full-stack developer with 5 years of experience developing and maintaining web applications and experience as a freelancer. 
 I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, and TFS</strong>.
 
 
@@ -10,7 +10,8 @@ I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, 
 📜 [Programming for Intermediate Users Using Python](https://courses.buri.io/view/user/certificate/c725f9b0-5bed-4951-a06a-fe0b7bec730a/pdf)
 
 ## Previous/In progress WebApp <br/>
-> ⭐️ [Jobs Board Web App](https://github.com/cmtania/jobs-board) - Created job posted web app using Angular 12 and NodeJs as backend using local JSON File. <br/>
+> ⭐️ [Jobs Board Web App](https://github.com/cmtania/jobs-board) - Created job-posted web app using Angular 12 and NodeJs as backend using local JSON File. <br/>
+> ⭐️ [Inventory Sytem](https://github.com/cmtania/inventory-system) - An Inventory System Web App using Angular 17 and a Micro-service using C# .Net Core. <br/>
 ## Freelance Work <br/>
 > ⭐️ [SplinterLands-Bot](https://github.com/cmtania/splinterlands-bot/commit/4aa3005e222f1365f6c82caf183494b01ac8da82) - Added changes to their working bot.<br/>
 > ⭐️ [Education Landing page](https://securranty-development.azurewebsites.net/Education.aspx) - Create landing page with Bootstrap, HTML and CSS.<br/>
