@@ -1,6 +1,6 @@
 # Hi there, I'm Christian M. Tania 👋🏻
-## I'm looking for freelance work, contact me for your future project. 
-## I'm a full-stack developer with 5 years of experience developing and maintaining web applications and experience as a freelancer. 
+## If you need help with your web development project, contact me for your future development needs. 
+## I'm a full-stack developer with 6 years of experience in developing and maintaining web applications, along with freelancing experience. 
 I've been working with <strong> C#, NodeJS, Angular, AWS, REST API, MSSQL, GIT, and TFS</strong>.
 
 
